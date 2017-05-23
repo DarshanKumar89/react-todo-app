@@ -1,7 +1,0 @@
-const actionTypes = {
-    GET_REDDIT_POST: 'GET_REDDIT_POST',
-    GET_REDDIT_POST_SUCCESS: 'GET_REDDIT_POST_SUCCESS',
-    GET_REDDIT_POST_FAILED: 'GET_REDDIT_POST_FAILED'
-};
-
-export default actionTypes;
